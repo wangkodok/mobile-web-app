@@ -73,6 +73,8 @@ button {
 .back {
   background-color: #fff;
   border-radius: 14px;
+  border: 1px solid #024289;
+  box-sizing: border-box;
 }
 
 .btn-click {
